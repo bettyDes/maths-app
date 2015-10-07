@@ -4,7 +4,7 @@
 main()
 {
 //Trig stands for the trigonometric value
-//sqrt stands for the swuare root of the value
+//sqrt stands for the square root of the value
 //po stands for the power of the value
 //pob is the base num
 //pop is the power num
